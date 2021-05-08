@@ -1,0 +1,10 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://brajesh:brajesh@cluster0.d14kq.mongodb.net/sample_analytics?retryWrites=true&w=majority&serverSelectionTimeoutMS=2000&connectTimeoutMS=2000
+            database: sample_analytics
+            
+            
+
+
+
